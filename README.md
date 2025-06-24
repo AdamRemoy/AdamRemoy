@@ -5,7 +5,7 @@
 
 ## ⚡️ A Few Quick Facts
 
-- 🎓 I’m currently studying Computer Engeneer at HVL
+- 🎓 I’m currently studying Computer Engineer at HVL
 - 💻 I’m currently learning Swift and SwiftUI
 
 ## 🚀 Languages
